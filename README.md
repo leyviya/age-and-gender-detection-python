@@ -10,5 +10,8 @@ Age and Gender Detection using OpenCV library - Python. Engineering Project 2.
 
 <img width="1236" alt="Screen Shot 2022-04-14 at 12 57 33" src="https://user-images.githubusercontent.com/63939366/163362078-46d991f2-fa63-44cb-9253-f25af0d709a2.png">
 
+# Demo video of application
+
+https://user-images.githubusercontent.com/63939366/215079889-2773426f-7332-471b-b598-3abf4c0b1cda.mp4
 
 # Leyla Abdullayeva - Computer Engineering
